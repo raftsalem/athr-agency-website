@@ -27,7 +27,7 @@ const toast = document.getElementById('toast');
 form?.addEventListener('submit', e => {
   e.preventDefault();
   // Replace the placeholder below with Athr Agency's real WhatsApp number.
-  const whatsappNumber = '20XXXXXXXXXX';
+  const whatsappNumber = '201119780803';
   if (whatsappNumber.includes('X')) {
     toast.textContent = 'قبل النشر: افتح script.js واستبدل 20XXXXXXXXXX برقم واتساب الوكالة بكود مصر 20 بدون + أو مسافات.';
     toast.classList.add('show');
