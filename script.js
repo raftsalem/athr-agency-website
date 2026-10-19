@@ -58,25 +58,20 @@ form?.addEventListener('submit', e => {
         "burger-campaign-13.jpg"
       ]
     },
-    abo: {
-      title: "حملات أبو",
-      images: [
-        "Abo-campaign-01.jpg",
-        "Abo-campaign-02.jpg"
-      ]
-    },
-    gawish: {
-      title: "جويش دنتال سنتر",
-      images: [
-        "Gawish-campaign-01.jpg",
-        "Gawish-campaign-02.jpg",
-        "Gawish-campaign-04.jpg",
-        "Gawish-campaign-07.jpg",
-        "Gawish-campaign-10.jpg"
+medical: {
+  title: "تصميمات طبية",
+  images: [
+    "Abo-campaign-01.jpg",
+    "Abo-campaign-02.jpg",
+    "Gawish-campaign-01.jpg",
+    "Gawish-campaign-02.jpg",
+    "Gawish-campaign-04.jpg",
+    "Gawish-campaign-07.jpg",
+    "Gawish-campaign-10.jpg"
       ]
     },
     print: {
-      title: "الدعاية والطباعة",
+      title: "ُإيفرست برنت",
       images: [
         "print-campaign-01.jpg",
         "print-campaign-02.jpg",
